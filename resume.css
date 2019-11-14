@@ -1,9 +1,37 @@
+body{
+	background: #333;
+}
 main{
 	width: 1000px;
+	font-family: sans-serif;
+	background: #fff;
+	padding:20px;
+	color: #333;
 }
 .content{
 	width: 70%;
 	margin: auto;
+}
+.entry-title{
+	text-align: center;
+	text-transform: uppercase;
+}
+.uvc-main-heading{
+	color: #000;
+	font-weight: bold;
+	font-size: 20px;
+}
+.wpb_wrapper a{
+	color: #337CC4;
+}
+.bold{
+	font-weight: bold;
+}
+.text-right{
+	text-align: right;
+}
+.vc_custom_1553476796357{
+	color: #000;
 }
 .pbe-tags span{
 	background: green;
