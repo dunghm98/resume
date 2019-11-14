@@ -1,0 +1,12 @@
+main{
+	width: 1000px;
+}
+.content{
+	width: 70%;
+	margin: auto;
+}
+.pbe-tags span{
+	background: green;
+	border-radius: 10px;
+	padding: 10px;
+}
